@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "jhon candid",
+      "rollno": 1
+    },
+    {
+      "name": "anu",
+      "rollno": "2",
+      "id": 2
+    },
+    {
+      "name": "kamal",
+      "rollno": "3",
+      "id": 3
+    },
+    {
+      "name": "sim",
+      "rollno": "4",
+      "id": 4
+    },
+    {
+      "name": "sanu",
+      "rollno": "5",   
+      "id": 5
+    }
+  ]
+}
